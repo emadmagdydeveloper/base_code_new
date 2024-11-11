@@ -1,0 +1,84 @@
+{
+  "project_info": {
+    "project_number": "995297483863",
+    "project_id": "ditchit-31509",
+    "storage_bucket": "ditchit-31509.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995297483863:android:a90a0be5e37590daabd712",
+        "android_client_info": {
+          "package_name": "com.app.ditchIt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995297483863-lpfpprug1lnlve6k9r7e9o13nf83n7bc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKsBOGjbyzx6GtHD5RIB8yH3YACd9iWeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995297483863-lpfpprug1lnlve6k9r7e9o13nf83n7bc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "995297483863-4us7go7g1tvt1r2pvk0b5682ea168p12.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nami.ditchIt",
+                "app_store_id": "6504569238"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995297483863:android:f69dc4b370bb7cf7abd712",
+        "android_client_info": {
+          "package_name": "com.nami.ditchIt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995297483863-lpfpprug1lnlve6k9r7e9o13nf83n7bc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKsBOGjbyzx6GtHD5RIB8yH3YACd9iWeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995297483863-lpfpprug1lnlve6k9r7e9o13nf83n7bc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "995297483863-4us7go7g1tvt1r2pvk0b5682ea168p12.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nami.ditchIt",
+                "app_store_id": "6504569238"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
